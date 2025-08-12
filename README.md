@@ -71,3 +71,16 @@ Weekly Reporting - Generate reports for accounting
 Category Analysis - Understand spending patterns
 Tax Preparation - Export data for tax filing
 Cash Flow Management - Monitor business spending trends
+
+AI Report Summary
+
+Used AI to generate Modern UI, Features like pdf export, Creating proper MVVM architecture
+
+APK Link - https://drive.google.com/file/d/1ndsQQDvvdikqTMXfqT6IW20nDI-jx5Ck/view?usp=sharing
+
+ScreenShots
+
+![Screenshot (284).png](../Pictures/Screenshots/Screenshot%20%28284%29.png)
+![Screenshot (261).png](../Pictures/Screenshots/Screenshot%20%28261%29.png)
+![Screenshot (257).png](../Pictures/Screenshots/Screenshot%20%28257%29.png)
+![Screenshot (86).png](../Pictures/Screenshots/Screenshot%20%2886%29.png)
